@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MATTS-SURFACE</Machine>
+    <WindowsUser>Matt</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>bba4ad6e-48b5-46ca-8813-e16f56aa5b38</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSUCafMenu\MSUCafMenu\MSUCafMenu.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>1BE4AE863B3405087F18AD8673E9CCA8F1834C05D4BA03B0E1A4222FCD49BE66</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>bba4ad6e-48b5-46ca-8813-e16f56aa5b38_1.0.0.0_neutral__4bha6t8v6mmqe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>bba4ad6e-48b5-46ca-8813-e16f56aa5b38_4bha6t8v6mmqe!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>bba4ad6e-48b5-46ca-8813-e16f56aa5b38</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Matt</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSUCafMenu\MSUCafMenu\MSUCafMenu.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-26T22:11:05.776</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSUCafMenu\MSUCafMenu\MSUCafMenu.Windows\bin\Debug\MSUCafMenu.Windows.exe">
+      <PackagePath>MSUCafMenu.Windows.exe</PackagePath>
+      <Modified>2015-01-26T22:11:05.359</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSUCafMenu\MSUCafMenu\MSUCafMenu.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSUCafMenu\MSUCafMenu\MSUCafMenu.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSUCafMenu\MSUCafMenu\MSUCafMenu.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSUCafMenu\MSUCafMenu\MSUCafMenu.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSUCafMenu\MSUCafMenu\MSUCafMenu.Windows\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSUCafMenu\MSUCafMenu\MSUCafMenu.Shared\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSUCafMenu\MSUCafMenu\MSUCafMenu.Shared\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSUCafMenu\MSUCafMenu\MSUCafMenu.Shared\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSUCafMenu\MSUCafMenu\MSUCafMenu.Shared\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2015-01-26T22:04:23.587</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSUCafMenu\MSUCafMenu\MSUCafMenu.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-01-26T22:11:05.104</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSUCafMenu\MSUCafMenu\MSUCafMenu.Windows\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+      <Modified>2015-01-26T22:11:05.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSUCafMenu\MSUCafMenu\MSUCafMenu.Windows\bin\Debug\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+      <Modified>2015-01-26T22:11:05.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSUCafMenu\MSUCafMenu\MSUCafMenu.Windows\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+      <Modified>2015-01-26T22:11:05.114</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSUCafMenu\MSUCafMenu\MSUCafMenu.Windows\bin\Debug\MSUCafMenu.Windows.xr.xml">
+      <PackagePath>MSUCafMenu.Windows.xr.xml</PackagePath>
+      <Modified>2015-01-26T22:11:04.928</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSUCafMenu\MSUCafMenu\MSUCafMenu.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-01-26T22:11:05.580</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
